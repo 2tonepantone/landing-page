@@ -1,0 +1,26 @@
+.container-cards {
+  text-align: center;
+  margin: 56px 0;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-white {
+  color: black;
+  border-radius: 2px;
+  box-shadow: 0 0 3px rgb(0 0 0 / 30%);
+  padding: 16px;
+}
+
+.card-white img {
+  height: 100px;
+  object-fit: cover;
+  padding-right: 8px;
+}
+
+.card-white h3, .card-white p {
+  margin: 0px;
+}

@@ -1,0 +1,13 @@
+/* Your button CSS file */
+.btn-green {
+  color: white;
+  border-radius: 24px;
+  padding: 12px 32px;
+  background: #6ad58b;
+  font-weight: 400;
+}
+
+.btn-green:hover {
+  transition: .3s;
+  background: mediumseagreen;
+}
